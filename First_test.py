@@ -213,5 +213,6 @@ num_row()'''
         lst_w.write[1](line_wr)'
 ent_num()'''
 
-fib = lambda x : 1 if x <= 2 else fib(x - 1) + fib(x - 2)
-fib(31)
+'''fib = lambda x: 1 if x <= 2 else fib(x - 1) + fib(x - 2)
+fib(31)'''
+
